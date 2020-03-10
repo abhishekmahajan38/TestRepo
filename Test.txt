@@ -1,1 +1,5 @@
-Git Repo Master
+<<<<<<< HEAD
+
+=======
+I am master
+>>>>>>> 18fd1ca8b104ede5cbc4f0b7eec124e6251a9568
